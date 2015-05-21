@@ -1,23 +1,11 @@
-body {
+.darkBG {
 	background: #999;
-	font-family: arial;
 }
 
-h1, h2 {
-	color: #557;
-}
-li {
+.darkerBG {
 	background: #666;
-	color: blue;
-	padding: 10px 0px 10px 0px;
 }
 
-.secondary {
-	background: none;
-	color: green;
-}
-
-#special {
-	background: red;
-	color: white;
+.darkestBG {
+	background: #333;
 }
